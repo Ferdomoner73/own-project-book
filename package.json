@@ -1,0 +1,23 @@
+{
+  "name": "own-project",
+  "version": "1.0.0",
+  "description": "creation of website where people will can find their lovely books add it to theirshopping list and but them on original sites",
+  "homepage": "https://Ferdomoner73.github.io/own-project-book/",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build src/*.html --public-url /own-project-book/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferdomoner73/own-project-book.git"
+  },
+  "author": "Rostislav Stadnyk  and Nazar Krill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferdomoner73/own-project-book/issues"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "parcel": "^2.9.3"
+  }
+}
