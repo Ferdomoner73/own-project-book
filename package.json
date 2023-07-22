@@ -1,10 +1,10 @@
 {
   "name": "own-project",
   "version": "1.0.0",
-  "description": "creation of website where people will can find their lovely books add it to theirshopping list and but them on original sites",
+  "description": "creation of website where people probably can find their lovely books add it to theirshopping list and but them on original sites",
   "homepage": "https://Ferdomoner73.github.io/own-project-book/",
   "scripts": {
-    "start": "parcel",
+    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /own-project-book/"
   },
   "repository": {
